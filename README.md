@@ -1,6 +1,6 @@
 # Another lower bound for the height in abelian extensions
 
-This repository contains the Wolfram Mathematica notebook `computations.nb', 
+This repository contains the Wolfram Mathematica notebook `computations.nb`, 
 which provides the numerical computations supporting Chapter 4 of the thesis.
 
 
